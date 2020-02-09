@@ -48,6 +48,9 @@
 
 [在线ping](http://www.webkaka.com/Ping.aspx) 可以自由选择节点，结果界面直观简单，并且提供路由追踪功能
 
+[端口对应表](https://www.shentoushi.top/Public/upload/images/2017-07-09/Baidu_translation_table.png)
+
+
 
 ### 友情链接 
 

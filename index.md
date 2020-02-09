@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 安全站点导航
 
-You can use the [editor on GitHub](https://github.com/wanger-mazi/wanger-mazi.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### 网络设备探测
 
 ```markdown
-Syntax highlighted code block
+[钟馗之眼](https://www.zoomeye.org/)偏向web层面的搜索
+[fofa网络空间搜索引擎](https://fofa.so/)
+[shodan搜索引擎](https://www.shodan.io/)
+[censys搜索引擎](https://censys.io/)
+[]()
+[]()
+[]()
+[]()
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 站位
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanger-mazi/wanger-mazi.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 站位
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+

@@ -26,7 +26,7 @@
 [奇安信威胁情报中心](https://ti.qianxin.com/)
 
 
-### 备案信息查询
+### IP/域名信息查询
 
 [viewdns](https://viewdns.info/)
 
@@ -44,7 +44,7 @@
 
 [模仿nmap在线端口扫描](http://nmap.online-domain-tools.com/)
 
-[端口扫描|Online Port Scan](http://www.t1shopper.com/tools/port-scan/#)
+[端口扫描 Online Port Scan](http://www.t1shopper.com/tools/port-scan/#)
 
 
 

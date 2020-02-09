@@ -40,13 +40,13 @@
 
 ### 在线工具
 
-[奥丁之眼](http://www.scanip.cn/)  在线nmap
+[奥丁之眼](http://www.scanip.cn/)  在线扫描
 
 [模仿nmap在线端口扫描](http://nmap.online-domain-tools.com/)
 
 [端口扫描 Online Port Scan](http://www.t1shopper.com/tools/port-scan/#)
 
-
+[在线ping](http://www.webkaka.com/Ping.aspx) 可以自由选择节点，结果界面直观简单，并且提供路由追踪功能
 
 
 ### 友情链接 
